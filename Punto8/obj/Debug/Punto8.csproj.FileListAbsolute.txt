@@ -1,0 +1,6 @@
+C:\Users\PEDRO\Documents\SharpDevelop Projects\Taller.Net\Punto8\bin\Debug\Punto8.exe.config
+C:\Users\PEDRO\Documents\SharpDevelop Projects\Taller.Net\Punto8\bin\Debug\Punto8.exe
+C:\Users\PEDRO\Documents\SharpDevelop Projects\Taller.Net\Punto8\bin\Debug\Punto8.pdb
+C:\Users\PEDRO\Documents\SharpDevelop Projects\Taller.Net\Punto8\obj\Debug\Punto8.exe
+C:\Users\PEDRO\Documents\SharpDevelop Projects\Taller.Net\Punto8\obj\Debug\Punto8.pdb
+C:\Users\PEDRO\Documents\SharpDevelop Projects\Taller.Net\Punto8\obj\Debug\Punto8.csprojResolveAssemblyReference.cache
